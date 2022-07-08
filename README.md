@@ -19,8 +19,8 @@
 
 ## Projeto desenvolvido ao final do curso, para praticar todos os tópicos abordados
 
-## Prévia do Projeto
-![pagegit](https://user-images.githubusercontent.com/96606916/175422645-9bf9bd75-cfe5-40fb-a907-83ac61b37436.png)
+## Resultado do Projeto
+![flexbox-gif](https://user-images.githubusercontent.com/96606916/177912179-08e11ccd-2bf1-4762-b3a7-888adfc78c77.gif)
 
 ### Índice:
 - [Estrutura HTML5](projeto-flexbox-css3-dio/index.html)
